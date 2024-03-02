@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+.sub-subscribe{
+    background-color: aquamarine;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 10px 0px;
+    align-items: center;
+}
+
+.main-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sub-title{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 10px 50px 10px;
+}
+
+.submit-detail{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.submit-detail1{
+    padding: 10px;
+    border-radius: 5px;
+    border: 0px solid;
+}
+
+.btn-subscribe{
+    padding: 10px;
+    border-radius: 5px;
+    margin: 25px 10px 50px 10px;
+    width: 290px;
+    background-color: rgb(255, 119, 119);
+    border: 0px solid;
+}

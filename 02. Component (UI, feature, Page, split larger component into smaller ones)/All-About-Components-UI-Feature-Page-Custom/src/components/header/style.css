@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+p{
+    font-size: xx-large;
+}
+
+.sub-header{
+    background-color: rgba(248, 182, 182, 0.507);
+    display: flex;
+    justify-content:space-between;   
+}
+
+
+.logo{
+    width: auto;
+    height: 100px;
+    border-radius: 50%;
+    margin: 2%;
+}
+
+.icons-nav{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15%;
+    gap: 6px;   
+}
+
+.icons-nav li{
+    margin-right: 16px;
+}
+
+.search-header{
+
+} 
+
+.inp-search{
+    overflow: hidden;
+    border-radius: 10px 0px 0px 10px;
+    margin-top: 15%;
+    padding: 10px; 
+}
+.btn-search{
+    background-color: aqua;
+    padding: 10px;     
+    border-radius: 0px 10px 10px 0px;
+}
+
+.btn-search:hover{
+    background-color: rgb(128, 244, 132);
+    padding: 10px;     
+    border-radius: 0px 10px 10px 0px;
+}

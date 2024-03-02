@@ -1,0 +1,16 @@
+.app-container{
+    text-align: center;
+    color: black;
+    size: 23px;
+}
+
+.task-container{
+    list-style-type: none;
+}
+
+.title{
+    text-align: center;
+    font-size: xx-large;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

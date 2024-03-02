@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.user-card-container{
+    background-color: rgb(253, 237, 237);
+    border-radius: 12px;
+    box-shadow: 8px 10px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px 10px 10px 10px;
+}
+
+.user-photo{
+    border-radius: 50%;
+    width: auto;
+    height: 275px;
+}
+
+.user-name{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight:600;
+}
+
+.user-post{
+    font-size: 16px;
+}
+
+.user-joined-date{
+    font-size: 12px;
+}
+
+.user-skill-list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.user-skill-list li{
+    padding: 10px;
+    background-color: aqua;
+    margin: 10px 10px 0px 0px;
+    border-radius: 10px;
+    border: 1px;
+    width: fit-content;
+}
+
+.user-skills{
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: bold;
+}
