@@ -1,0 +1,17 @@
+.main-container {
+  text-align: center;
+}
+
+.sub-container {
+  display: flex;
+  gap: 20px;
+
+}
+
+.todo-list {
+  margin-right: 20px; 
+}
+
+.user-dashboard-container{
+  margin: 30px;
+}

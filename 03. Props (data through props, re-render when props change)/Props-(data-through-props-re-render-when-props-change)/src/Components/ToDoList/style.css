@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.todo-list-container{
+    width: 75%;
+    border-radius: 10px;
+    padding: 25px;
+    background-color: #242424;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.todo-list-heading{
+    text-align: center;
+    font:bold;
+    color: white;
+    font-size: x-large;
+}
+
+.task-list{
+    list-style: none;
+    border-radius: 10px;
+    margin: 0px 0px 10px 0px;
+    background-color: aqua;
+    cursor: pointer;
+    padding: 6px 25px 6px 25px;
+}
+
+.task-list:hover{
+    background-color: rgb(255, 200, 0);
+}

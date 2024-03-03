@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-user-container{
+    margin: 10px;
+}
+
+.main-user-imp-container{
+    width: 100%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;     
+}
+
+.main-user-imp-container:hover{
+    background-color: rgb(245, 210, 241);
+    transform: scale(1.135);
+    transition: ease-in-out;
+}
+.sub-user-container{
+    margin-top: 10px;  
+}
+
+.todo-list-user{
+    border-radius: 50%;
+    width: auto;
+    height: 150px;
+}
+
+.main-heading{
+    font:bold;
+    color: #242424;
+    font-size: x-large;
+}
+
+.user-info-name{
+    color: #242424;
+    font-size:large;
+    font-weight: bold;
+}
+
+.user-info-profession{
+    color: #242424;
+    font-weight: bold;
+}
+.user-info{
+    color: #242424;
+    font-size:small
+}
