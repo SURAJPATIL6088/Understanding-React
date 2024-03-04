@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn-color{
+  padding: 16px;
+  margin: 12px;
+  border-radius: 15px;
+  font-size: larger;
+}
+
+.btn-color-red:hover{
+  background-color: red;
+}
+
+.btn-color-white:hover{
+  background-color: white;
+  border: 1px solid black;
+}
+
+.btn-color-black:hover{
+  background-color: black;
+  border: 5px solid white;
+  color: white;
+}
+
+.btn-color-blue:hover{
+  background-color: blue;
+  color: white;
+}
+
+.btn-color-orange:hover{
+  background-color: orange;
+}
+
+.btn-color-green:hover{
+  background-color: green;
+  color: white;
+}
