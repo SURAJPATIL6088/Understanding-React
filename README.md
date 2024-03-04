@@ -1,4 +1,4 @@
-﻿# React-Best-Practices
+﻿# Understanding React
 
 01. Understanding JSX.
 02. Component (UI, feature, Page, split larger component into smaller ones)
