@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGVza3RvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Laptop",
+      "price": 799.99
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGVza3RvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Desktop Computer",
+      "price": 999.99
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9uaXRvcnxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Monitor",
+      "price": 249.99
+    },
+    {
+      "id": 4,
+      "image": "",
+      "title": "Keyboard",
+      "price": 49.99
+    },
+    {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TW91c2V8ZW58MHx8MHx8fDA%3D",
+      "title": "Mouse",
+      "price": 19.99
+    },
+    {
+      "id": 6,
+      "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJpbnRlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Printer",
+      "price": 199.99
+    },
+    {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2Nhbm5lcnN8ZW58MHx8MHx8fDA%3D",
+      "title": "Scanner",
+      "price": 149.99
+    },
+    {
+      "id": 8,
+      "image": "https://images.unsplash.com/photo-1601737487795-dab272f52420?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFyZCUyMGRpc2t8ZW58MHx8MHx8fDA%3D",
+      "title": "External Hard Drive",
+      "price": 129.99
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1623949556303-b0d17d198863?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2ViY2FtfGVufDB8fDB8fHww",
+      "title": "Webcam",
+      "price": 69.99
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Headphones",
+      "price": 79.99
+    }
+]
+  
