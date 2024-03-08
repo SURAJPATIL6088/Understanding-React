@@ -63,6 +63,7 @@
 }
 
 .task-list-container{
+  display: flex;
   list-style: none;
   border: 1px solid ;
   border-radius: 8px;
@@ -83,4 +84,6 @@
   border-radius: 8px;
 }
 
-
+.task-time-container{
+  font-size: x-small;
+}

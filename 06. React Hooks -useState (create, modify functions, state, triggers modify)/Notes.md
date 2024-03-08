@@ -1,18 +1,17 @@
-# useState 
+# useState
 
 1. `useState` is one of the built-in hooks in React, designed to provide state management within functional components. When you call useState, it returns an array with two elements:
 
 2. The current state value.
-A function to update that state value.
+   A function to update that state value.
 
 ## Syntax :
-![alt text](image-1.png)
 
+![alt text](image-1.png)
 
 ## Here's how it works:
 
 ![alt text](image-2.png)
-
 
 1. `Initialization:` When the component is first rendered, React initializes the state with the initial value provided to useState. This happens only once during the initial render.
 
@@ -27,3 +26,21 @@ A function to update that state value.
 6. `Lifecycle:` The state is preserved between re-renders of the component. React manages the lifecycle of the state, ensuring that it persists and remains consistent throughout the component's lifespan.
 
 Overall, useState provides a simple and intuitive way to manage state within functional components, allowing for dynamic and interactive user interfaces in React applications.
+
+## Developing Application : ToDo List
+
+1. **State Declaration:**
+It is initialized using the useState hook: `const [todos, setTodos] = useState([]);`.
+The todos variable holds the current state value, which is initially an empty array `([])`.
+The `setTodos` function is used to update the `todos state`.
+
+2. **Adding Todos:**
+When a new todo is added, it's appended to the existing list of todos using the `spread operator` and then set as the new state: `setTodos([...todos, newTodo])`.
+This preserves the previous todos while adding the new one.
+
+3. **Deleting Todos:**
+When a todo is deleted, a new array is created by copying the existing todos, removing the todo to delete using splice, and then updating the state with the new array: `setTodos(newTodos)`.
+
+4. **Rendering Todos:**
+The `todos` array is mapped over to render each todo item as a list item `(<li>)`.
+Each todo item is displayed along with a `"Delete"` button that triggers the `handleDeleteTodo` function to remove the corresponding todo.

@@ -13,9 +13,13 @@ function App() {
   };
 
   const handleAddTodo = () =>{
-    if(inputValue !== '')
+    if(inputValue.trim() !== '')
     {
-      setTodos([...todos, inputValue]);
+      const newTodo = {
+        text: inputValue,
+        timestamp: new Date().toLocaleString()
+      };
+      setTodos([...todos, newTodo]);
       setInputValue('');
     }
   };
@@ -50,7 +54,8 @@ function App() {
       <ul className="main-task-list-container">
         {todos.map((todo, index) => (
           <li className="task-list-container" key={index}>
-            {todo}
+            {todo.text}
+            <p className="task-time-container">{todo.timestamp}</p>
             <button className="task-btn-container" onClick={() => handleDeleteTodo(index)}>Delete</button>
           </li>
           
