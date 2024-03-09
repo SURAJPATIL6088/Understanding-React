@@ -1,0 +1,40 @@
+
+.form-input-container{
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0px 20px 0px 20px ;
+}
+
+.form-input-first-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 0px 12px 0px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.form-input-second-container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 0px 0px 12px 0px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.form-btn{
+    border-radius: 6px;
+    padding: 8px;
+    width: 220px;
+}
+
+.label-date{
+    margin: 0px 8px 10px 0px;
+}
+
+.input-date{
+    padding: 6px;
+    border-radius: 5px;
+}

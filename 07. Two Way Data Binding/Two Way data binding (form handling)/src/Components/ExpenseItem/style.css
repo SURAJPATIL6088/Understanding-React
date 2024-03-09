@@ -1,0 +1,17 @@
+
+.expense-item-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: hsl(87, 83%, 86%);
+    box-shadow: 4px 4px 4px rgb(145, 145, 145);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+p{
+    background-color: hsla(0, 9%, 85%, 0.776);
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+}
