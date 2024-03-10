@@ -1,0 +1,18 @@
+.form-input-container{
+    position: block;
+    padding: 12px;
+}
+
+.form-submit-btn{
+    padding: 10px;
+    border-radius: 0px 20px 20px 0px;
+    font-weight: 800;
+    background-color: rgb(244, 193, 118);
+}
+
+.form-submit-input{
+    padding: 10px;
+    border-radius: 20px 0px 0px 20px;
+    background-color: rgb(245, 213, 164);
+    font-weight: 800;    
+}

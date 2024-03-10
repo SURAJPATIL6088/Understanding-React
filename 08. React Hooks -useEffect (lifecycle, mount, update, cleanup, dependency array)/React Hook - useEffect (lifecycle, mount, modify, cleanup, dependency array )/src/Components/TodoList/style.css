@@ -1,0 +1,23 @@
+.todo-container{
+
+}
+
+.todo-list-btn{
+    margin: 0px 0px 0px 10px;
+}
+
+.completed{
+    list-style: none;
+    background-color: rgb(178, 254, 102);
+    border-radius: 10px;
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
+}
+
+.not-completed{
+    list-style: none;
+    background-color: rgb(252, 141, 141);
+    border-radius: 10px; 
+    margin: 0px 0px 10px 0px;
+    padding: 10px;      
+}
