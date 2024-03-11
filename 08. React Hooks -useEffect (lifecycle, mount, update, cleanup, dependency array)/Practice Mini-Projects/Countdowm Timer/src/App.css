@@ -1,0 +1,37 @@
+.main-container{
+  border: 2px solid black;
+  margin: 10px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.stop-btn-container{
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  font-weight: 800;
+  padding: 10px 25px 10px 25px;
+}
+
+.input-container{
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.start-btn-container{
+  border-radius: 10px;
+  background-color: rgb(2, 173, 2);
+  color: white;
+  font-weight: 800;
+  padding: 10px 25px 10px 25px;
+  margin: 0px 25px 0px 25px;
+}
+
+.reset-btn-container{
+  border-radius: 10px;
+  background-color: rgb(29, 222, 252);
+  color: white;
+  font-weight: 800;
+  padding: 10px 25px 10px 25px;
+  margin: 0px 25px 0px 25px;
+}
