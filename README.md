@@ -8,6 +8,9 @@
 06. React Hooks - useState    
 07. Two Way Data Binding
 08. React Hooks -useEffect (lifecycle, mount, update, cleanup, dependency array)
+       - Practice
+           - Countdown Timer
+           - Memory Game
 09. React Hooks (useMemo, useCallback - Web Dev Simplified, Cosden Solutions)
 10. React Hooks (useRef, useReducer)
 
