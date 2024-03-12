@@ -13,5 +13,8 @@
            - Memory Game
 09. React Hooks (useMemo, useCallback - Web Dev Simplified, Cosden Solutions)
 10. React Hooks (useRef, useReducer)
-
-
+11. React Hooks - useContext (create, provider component, access a context)
+12. React Hooks - Custom Hook (create the hook, re-use a hook)
+13. Conditional Rendering
+14. Client-Side Routing (React-Router, Bundle Splitting & Lazy-Loading)
+15. React (useEffect) - API Data Fetching (Loading, errors, caching, race Condition)
