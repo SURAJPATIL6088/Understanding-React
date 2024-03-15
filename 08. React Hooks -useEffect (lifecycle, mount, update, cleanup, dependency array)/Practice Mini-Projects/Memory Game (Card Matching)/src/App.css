@@ -1,10 +1,48 @@
 #root {
   text-align: center;
+  background-color: rgb(38, 22, 22);
+}
+
+.game-heading{
+  color: #ffffff;
+  padding: 10px;
+}
+
+.game-moves-counter{
+  color: #ffffff;
+  padding: 10px;
 }
 
 .card-btn-container{
   border-radius: 10px;
-  background-color: green;
+  background-color: rgb(118, 255, 118);
   font-weight: 700;
+  margin: 20px;
   padding: 10px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+  border: 7px solid #ffffff;
+  background-color: rgb(223, 181, 130);
+  display: flex;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.card.flipped {
+  transform: rotateY(180deg);
 }
