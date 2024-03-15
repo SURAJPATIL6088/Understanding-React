@@ -1,6 +1,6 @@
 ﻿# Understanding React
 
-01. Understanding JSX.
+01. [Understanding JSX](https://github.com/SURAJPATIL6088/Understanding-React/tree/master/01.%20Understanding%20JSX/Understanding%20JSX) ::: [Notes](https://github.com/SURAJPATIL6088/Understanding-React/blob/master/01.%20Understanding%20JSX/Notes.md)
 02. Component (UI, feature, Page, split larger component into smaller ones)
 03. Props (data through props, re-render when pgh props, re-render when props change)
 04. Event Handling (react to input, events like buttons, inputs)
