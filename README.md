@@ -14,10 +14,19 @@
 09. React Hooks (useMemo, useCallback - Web Dev Simplified, Cosden Solutions)
 10. React Hooks (useRef, useReducer)
 11. React Hooks - useContext (create, provider component, access a context)
-12. React Hooks - Custom Hook (create the hook, re-use a hook)
-13. Conditional Rendering
-14. Client-Side Routing (React-Router, Bundle Splitting & Lazy-Loading)
-15. React (useEffect) - API Data Fetching (Loading, errors, caching, race Condition)
+       - Practice mini-projects
+           - Designing Context API
+           -
+13. React Hooks - Custom Hook (create the hook, re-use a hook)
+       - Practice mini-projects
+           - Design & Use of Custom hook
+           - isOnline, isOffline Functionalities
+15. Conditional Rendering
+16. Client-Side Routing (React-Router, Bundle Splitting & Lazy-Loading)
+       - Practice mini-projects
+           - Impletation Navigation Layout
+           - 
+17. React (useEffect) - API Data Fetching (Loading, errors, caching, race Condition)
        - Practice mini-projects
            - Wheather forcasting Application
            - News feed Application
