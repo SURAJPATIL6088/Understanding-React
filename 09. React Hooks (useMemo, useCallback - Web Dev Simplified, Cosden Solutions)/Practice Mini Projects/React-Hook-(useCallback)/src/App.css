@@ -1,0 +1,14 @@
+.main-container{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-container{
+  list-style: none;
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+}
